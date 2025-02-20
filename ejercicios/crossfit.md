@@ -9,3 +9,6 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina ejerc
 1. Comienza con un calentamiento general de 5-10 minutos.
 2. Realiza un circuito de ejercicios funcionales, incluyendo levantamientos de pesas, carreras y saltos, durante 20-30 minutos.
 3. Termina con un enfriamiento y estiramientos.
+## Consejos
+- Asegúrate de realizar los movimientos con la técnica adecuada.
+- Escoge un peso que te desafíe pero no te sobrecargue.
