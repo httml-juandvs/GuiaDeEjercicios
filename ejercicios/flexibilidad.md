@@ -5,3 +5,7 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 - Mejora la postura y el equilibrio.
 - Reduce el riesgo de lesiones.
 - Alivia tensiones musculares.
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza ejercicios de estiramiento estático y dinámico, como estiramientos de piernas, espalda y brazos, durante 20-30 minutos.
+3. Finaliza con respiraciones profundas para relajarte.
