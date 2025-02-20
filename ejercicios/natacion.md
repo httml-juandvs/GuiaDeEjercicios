@@ -9,3 +9,6 @@ La natación es un ejercicio cardiovascular de bajo impacto que trabaja casi tod
 1. Comienza con un calentamiento en el agua, nadando suavemente durante 5-10 minutos.
 2. Realiza series de diferentes estilos de natación (crawl, espalda, braza) durante 30-45 minutos.
 3. Termina con un enfriamiento nadando lentamente.
+## Consejos
+- Respira de forma controlada mientras nadas.
+- Mantén una técnica adecuada para evitar sobrecargar los músculos.
