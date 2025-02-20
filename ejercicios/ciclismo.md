@@ -9,3 +9,6 @@ El ciclismo es una actividad cardiovascular que se puede realizar tanto en exter
 1. Comienza con un calentamiento de 5-10 minutos en una bicicleta a ritmo suave.
 2. Pedalea a un ritmo moderado durante 30-60 minutos.
 3. Termina con un enfriamiento y estiramientos de piernas.
+## Consejos
+- Ajusta el sillín de la bicicleta a la altura correcta para evitar lesiones.
+- Mantén una postura erguida mientras pedaleas.
