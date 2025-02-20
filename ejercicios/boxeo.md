@@ -12,3 +12,4 @@ El boxeo es un deporte que mejora la fuerza, la resistencia y la coordinación, 
 ## Consejos
 - Utiliza guantes y protección adecuada para evitar lesiones.
 - Mantén un ritmo controlado, y aumenta la intensidad gradualmente.
+
