@@ -1,15 +1,14 @@
-#Ejercicios Cardio
+# Boxeo
 ## Descripción
-Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y mejoran la resistencia.
+El boxeo es un deporte que mejora la fuerza, la resistencia y la coordinación, combinando golpes y movimientos rápidos.
 ## Beneficios
-- Aumenta la capacidad cardiovascular.
-- Ayuda a quemar calorías.
-- Mejora el estado de ánimo.
+- Aumenta la fuerza y la resistencia cardiovascular.
+- Mejora la coordinación y la agilidad.
+- Reduce el estrés y mejora el enfoque mental.
 ## Instrucciones
-1. Comienza con un calentamiento de 5-10 minutos.
-2. Realiza la actividad (correr, nadar, andar en bicicleta) durante al menos 30 minutos.
-3. Termina con un enfriamiento y estiramientos.
+1. Comienza con un calentamiento de 5-10 minutos, realizando movimientos ligeros.
+2. Realiza ejercicios de golpeo (como golpes al saco o al aire) y de pie, combinando rapidez y precisión durante 30-45 minutos.
+3. Finaliza con estiramientos y relajación.
 ## Consejos
-- Mantén una hidratación adecuada.
-- Escoge un ritmo que puedas mantener.
-
+- Utiliza guantes y protección adecuada para evitar lesiones.
+- Mantén un ritmo controlado, y aumenta la intensidad gradualmente.
